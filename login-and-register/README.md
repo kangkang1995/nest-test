@@ -16,6 +16,23 @@ typeorm 通过 @PrimaryGeneratedKey、@Column、@CreateDateColumn、@UpdateDateC
 
 这样，就实现了注册和基于 JWT 的登录功能。
 
+
+### 参考
+https://nest-docs.liushuaiyang.com/%E7%AC%AC56%E7%AB%A0%E2%80%94MySQL+TypeORM+JWT%E5%AE%9E%E7%8E%B0%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
